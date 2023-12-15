@@ -1,4 +1,3 @@
 # hw_9.1_actions
 
-## ![example workflow]
-## (https://github.com/KsuKuper/hw_9.1_actions/.github/workflows/blank.yml/badge.svg)
+[![CI](https://github.com/Melnioks/hw_9.1_actions/actions/workflows/blank.yml/badge.svg?branch=main&event=push)](https://github.com/Melnioks/hw_9.1_actions/actions/workflows/blank.yml)
